@@ -16,6 +16,9 @@ dependencies = [
     "requests",
     "plotly",
     "openpyxl",
+    "lyricsgenius>=3.6.0",
+    "tqdm>=4.67.1",
+    "spotipy>=2.25.1",
 ]
 
 [build-system]
