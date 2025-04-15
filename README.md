@@ -1,5 +1,6 @@
 # Musica Arg NLP
-A template for data analysis projects using python
+
+Análisis de letras de canciones de rock argentino
 
 Created by: Fernanda Aguirre Ruiz
 
