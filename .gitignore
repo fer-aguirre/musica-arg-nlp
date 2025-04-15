@@ -134,3 +134,5 @@ config.ini
 
 # Quarto files
 /.quarto/
+.qodo
+.gitsecret/keys/random_seed
