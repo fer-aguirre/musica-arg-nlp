@@ -19,6 +19,11 @@ dependencies = [
     "lyricsgenius>=3.6.0",
     "tqdm>=4.67.1",
     "spotipy>=2.25.1",
+    "transformers>=4.51.3",
+    "torch>=2.6.0",
+    "tensorflow>=2.19.0",
+    "tf-keras>=2.19.0",
+    "spacy>=3.8.5",
 ]
 
 [build-system]
